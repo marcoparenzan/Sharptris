@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sharptris", "Sharptris\Sharptris.csproj", "{FAB1583A-CE41-4498-89B8-35B6B07DCBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB1583A-CE41-4498-89B8-35B6B07DCBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB1583A-CE41-4498-89B8-35B6B07DCBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB1583A-CE41-4498-89B8-35B6B07DCBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB1583A-CE41-4498-89B8-35B6B07DCBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2570C5AB-FBEA-4E40-80E0-42B21E343F9F}
+	EndGlobalSection
+EndGlobal
